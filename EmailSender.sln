@@ -1,15 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27703.2018
+VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSender", "EmailSender\EmailSender.csproj", "{864D4484-9DDD-4D23-9304-75133A9F6A14}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{851BE833-63C3-4039-A7CF-396A7FE607F0}"
-	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
-		Version.cs = Version.cs
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSender", "EmailSender.csproj", "{864D4484-9DDD-4D23-9304-75133A9F6A14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7D386E29-6F40-4C3D-B6D6-8718DC3AB71F}
+		SolutionGuid = {97C13292-CF36-4BC2-824C-B087427CDF49}
 	EndGlobalSection
 EndGlobal
