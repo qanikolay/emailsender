@@ -6,7 +6,7 @@
         {
             var mail = EmailSender.CreateMailData();
             EmailSender.SendMail(mail);
-            // comm 4 teamcity check sec
+            // comm 4 teamcity check thi
         }
     }
 }
